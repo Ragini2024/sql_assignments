@@ -1,1 +1,1 @@
-# assignments
+# sql_snowflake_assignments
